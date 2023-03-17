@@ -1,5 +1,13 @@
 # java-exercicios
-Exercícios em Java para aprendizagem
+<h1>Exercícios em Java para aprendizagem:</h1>
 
-1- Spy Number
-2- Spy Number in Range
+<h3>Laços de repetição for:</h3>
+    1- Spy Number
+    <br>
+    2- Spy Number in Range
+
+<h3>Arrays:</h3>
+    1 - Array Copy
+<br>2 - Frequência de Elementos
+<br>3 - Left Rotation
+
