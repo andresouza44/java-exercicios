@@ -10,4 +10,7 @@
     1 - Array Copy
 <br>2 - Frequência de Elementos
 <br>3 - Left Rotation
+<br>4 - Elementos Duplicados
+<br>5 - Maior Número em um Array
+
 
