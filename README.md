@@ -12,5 +12,9 @@
 <br>3 - Left Rotation
 <br>4 - Elementos Duplicados
 <br>5 - Maior Número em um Array
+<br>6 - Right Rotation
+<br>7 - Ordenando Elementos
+
+
 
 
